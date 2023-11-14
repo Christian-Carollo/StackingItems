@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackingItems", "StackingItems\StackingItems.csproj", "{F2524FC8-2A4E-428E-84FD-42F774E796FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2524FC8-2A4E-428E-84FD-42F774E796FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2524FC8-2A4E-428E-84FD-42F774E796FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2524FC8-2A4E-428E-84FD-42F774E796FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2524FC8-2A4E-428E-84FD-42F774E796FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9A27362-42B7-45D5-85FC-EC246D372118}
+	EndGlobalSection
+EndGlobal
